@@ -1,5 +1,5 @@
 #Nasheel repository link: https://github.com/NasheelNadeem/Nasheel_Nadeem_Activity-1
-#Husnain repository link:
+#Husnain repository link: https://github.com/iblamehussi/husnain_activity-1
 
 import turtle
 
